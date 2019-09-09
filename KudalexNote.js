@@ -1,3 +1,3 @@
 function Hello(){
-    console.log('note hello')
+    console.log('note hello');
 }
